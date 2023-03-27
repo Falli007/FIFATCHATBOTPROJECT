@@ -1,0 +1,49 @@
+Tasks Due date 19/12/2022
+build the scenario - all of us
+
+implement selection option - tharsan  doe
+set window size at start - tharsan done
+press ennter button to trigger update function - tharsan done
+greet at the initial - done
+change alignment positions - done
+add image for bot and user in chat screen 21/12/2022 - done
+
+
+next meeting - 21/12/2022
+
+
+meeting 31-12-2022
+1. make sure what we are doing is correct - double confirm - fellinson - done
+2. Read the requirements pdf again and make sure - Match expectation - tharsan
+3. Demo slide - Fred/innocent
+4. docs - fred/abby
+5. scenarios - finalize full working scenario - all of us
+6. data set - get online and add to intents loader - tharsan
+7. model is saving or not? how others handling it? are we missing any part? - fellinson - done
+8. save the model - tharsan - done
+9. set window size for windows pc- tharsan -done
+
+10. reduce space in options - tharsan - done
+11. auto scroll down to last chat - tharsan - done
+12. increase the height of line edit - tharsan - done
+13. close the window when user type Bye - tharsan - done
+14. break data to Test data - tharsan.
+
+Demo
+welcome/title slide with team members name
+introduction -
+how we overcome the problem - techs(NLU, TOKENizer, etc,)
+prototype - train model - accuracy
+Execution - test model - accuracy
+Conclusion -
+thank you slide
+
+
+Limitation: Whole details of data plans
+
+
+
+150 epoch 0.9
+
+20 epoch 0.8
+17,11 points

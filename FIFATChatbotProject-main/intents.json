@@ -1,0 +1,474 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "hello",
+        "hey",
+        "hi",
+        "good day",
+        "greetings",
+        "what's up? ",
+        "how is it going?",
+        "heya",
+        "hey there",
+        "G’day",
+        "hey man",
+        "yo",
+        "howdy",
+        "sup",
+        "whazzup",
+        "hiya",
+        "g’day mate"
+      ],
+      "responses": [
+        "hello and welcome to Fifat, how can I help you today",
+        "hey, my name is Fifat. How can I help you today",
+        "thank you for reaching out, How can I help you today?"
+      ],
+      "options": []
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "do take care",
+        "Have a good day!",
+        "Take Care",
+        "Have a good one.",
+        "Catch you later!",
+        "See ya!"
+      ],
+      "responses": [
+        "See you later.",
+        "If you require further information, feel free to contact me.",
+        "If you require further information, let me know.",
+        "Should you need further information, please do not hesitate to contact me",
+        "enjoy your day.",
+        "Thanks for visiting"
+      ],
+      "options": []
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Cheers.",
+        "Thank you",
+        "That’s so kind of you.",
+        "Much appreciated.",
+        "I want to acknowledge how much you’ve done.",
+        "That's helpful",
+        "I am grateful",
+        "Thank you for your help.",
+        "I really appreciate the help.",
+        "Thank you once more for your help in this matter.",
+        "Thanks for your hard work on this.",
+        "I couldn’t have done it without you."
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure",
+        "You are welcome",
+        "I am glad that I can help",
+        "no problem",
+        "it's my pleasure",
+        "No worries",
+        "That’s all right.",
+        "It was the least I could do.",
+        "Glad to help.",
+        "Thank YOU."
+      ],
+      "options": []
+    },
+    {
+      "tag": "providers",
+      "patterns": [
+        "What providers have the best network?",
+        "Which networks are good?",
+        "Do you have top providers?",
+        "Which carrier has the best coverage in my area?",
+        "What kind of fluctuations in bandwidth should I expect throughout the day with the networks?"
+      ],
+      "responses": [
+        "you may like the four base networks",
+        "Most providers have a good network, do you want to try Vodafone?"
+      ],
+      "options": []
+    },
+    {
+      "tag": "Roaming",
+      "patterns": [
+        "I travel overseas a lot. Which providers will work outside the UK.?",
+        "Which network provides the best roaming package?",
+        "Chepest Roaming package provider"
+      ],
+      "responses": [
+        "Most networks have good roaming package."
+      ],
+      "options": []
+    },
+    {
+      "tag": "mopeds",
+      "patterns": [
+        "Essentials",
+        "£11",
+        "500MB data",
+        "500 minutes",
+        "48 months",
+        "12 months",
+        "vodafone",
+        "Roaming",
+        "fast internet",
+        "super-fast",
+        "cheap",
+        "minutes",
+        "superfast internet"
+      ],
+      "responses": [
+        "I recommend Vodafone essential"
+      ],
+      "options": []
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "is data cheap",
+        "what value plans do you have",
+        "I need a bundle that is not expensive",
+        "Do you have small money",
+        "I want inexpensive"
+      ],
+      "responses": [
+        "the cheapest is about 7 to 10 pounds"
+      ],
+      "options": []
+    },
+    {
+      "tag": "vodafone10",
+      "patterns": [
+        "£10 Bundle ",
+        "Unlimited minutes",
+        "I want 21GB data",
+        "I want 3x more data",
+        "I need unlimited minutes",
+        "do you have unlimited minutes"
+      ],
+      "responses": [
+        "I recommend Vodafone essential"
+      ],
+      "options": []
+    },
+    {
+      "tag": "open-today",
+      "patterns": [
+        "Are you open today?",
+        "When do you open today?",
+        "What are your hours today?"
+      ],
+      "responses": [
+        "We're open for 24 hours every day",
+        "Our site is open every day",
+        "Feel free to message us at anytime of the day"
+      ],
+      "options": []
+    },
+    {
+      "tag": "vodafone",
+      "patterns": [
+        "Do you have vodafone bundles?",
+        " what of Any from vodafone",
+        " what are the data from vodafone",
+        "bundle from vodafone",
+        "vodafone packages"
+      ],
+      "responses": [
+        "vodafone have amazing packages",
+        "Voadfone packages are really good",
+        "vodafones packages are incredible"
+      ],
+      "options": []
+    },
+    {
+      "tag": "prices",
+      "patterns": [
+        "How much is that",
+        "How much is bundle",
+        "How much is it",
+        "what is the cost of data",
+        "what is the cost of bondle",
+        "what is the price"
+      ],
+      "responses": [
+        "we have price range between 10  to 50 pounds",
+        "the cheapest is 10 pounds"
+      ],
+      "options": []
+    },
+    {
+      "tag": "v",
+      "patterns": [
+        "are the data rolled?",
+        "What if I dont use the data?",
+        "What happens to leftover data?",
+        "What will I do with the remaining data?"
+      ],
+      "responses": [
+        "Any unused data from your Bundle will automatically roll over into the next 30 days.",
+        "Yes"
+      ],
+      "options": []
+    },
+    {
+      "tag": "service providers",
+      "patterns": [
+        "do you have any preference in regard to a network provider",
+        "any favourite network",
+        "can you choose from the following networks  O2 ,virgin,Talkmobile,EEA, Sky Mobile, 3 mobile,smart,Asda mobile"
+      ],
+      "responses": [
+        " yes vodafone",
+        "not very particular",
+        "any network with high speed",
+        "EEA",
+        "O2",
+        "Virgin",
+        "3Mobile",
+        "Smarty",
+        "Sky Mobile",
+        "Talk Mobile"
+      ],
+      "options": []
+    },
+    {
+      "tag": "monthly Budget",
+      "patterns": [
+        "Whats your budget ",
+        "do you have a limit amount ",
+        " how much are you prepared to spend per month",
+        "Do you have a capped budget"
+      ],
+      "responses": [
+        "up to £30 ",
+        "less than £30",
+        "uncapped",
+        "up to £100",
+        "up to £50"
+      ],
+      "options": []
+    },
+    {
+      "tag": "Packages",
+      "patterns": [
+        "can you take me through your data packages",
+        "do you have a combination of data and minutes",
+        "Can you show me the available bundles for data and minutes",
+        "do you have any promotion or discounts "
+      ],
+      "responses": [
+        " 5GB",
+        "1GB",
+        "10GB",
+        "20GB",
+        "25GB",
+        "80GB",
+        "125GB",
+        "200GB",
+        "UNLIMITED"
+      ],
+      "options": []
+    },
+    {
+      "tag": "MAXIMUM SPEED FOR TALKMOBILE ESSENTIAL",
+      "patterns": [
+        "What is the maximum speed for TALKMOBILE Essential",
+        "What is the fastest for TALKMOBILE Essential",
+        "What is the top speed for TALKMOBILE Essential ",
+        "How fast is TALKMOBILE Essential"
+      ],
+      "responses": [
+        "It is super fast(5G)"
+      ],
+      "options": []
+    },
+    {
+      "tag": "MAXIMUM SPEED FOR EE ESSENTIAL",
+      "patterns": [
+        " What is the maximum speed for EE Essential ",
+        " What is the fastest for EE Essential ",
+        " What is the top speed for EE Essential ",
+        "How fast is EE Essential"
+      ],
+      "responses": [
+        "It is super fast(5G)"
+      ],
+      "options": []
+    },
+    {
+      "tag": "MAXIMUM SPEED FOR 3 MOBILE ESSENTIAL",
+      "patterns": [
+        " What is the maximum speed for 3 MOBILE Essential ",
+        " What is the maximum speed for 3 MOBILE ESSENTIAL",
+        " What is the fastest for 3 MOBILE ESSENTIAL",
+        " What is the top speed for 3 MOBILE ESSENTIAL",
+        "How fast is 3 MOBILE ESSENTIAL"
+      ],
+      "responses": [
+        "It is super fast(5G)"
+      ],
+      "options": []
+    },
+
+    {
+      "tag": "AVAILABLE NETWORKS",
+      "patterns": [
+        "What are the available networks",
+        "networks",
+        "I am looking for best network",
+        "I am lookig for cheap network",
+        "I am looking for best data plan",
+        "cheap data",
+        "Cheapest data plan",
+        "best network",
+        "I am looking for cheap data plan",
+        "I am looking for networks",
+        "I am looking for data plans",
+        "I am looking for cheapest network in town",
+        "suggest some networks"
+      ],
+      "responses": [
+        "Please share your preference on your expectation from providers? "
+      ],
+      "options": ["Coverage","Reliable","Customer service","Speed","Discounts"]
+    },
+    {
+      "tag": "Coverage",
+      "patterns": [
+        "coverage",
+        "Best coverage networks"
+      ],
+      "responses": [
+        "Please share what options you are looking for with below options"
+      ],
+      "options": ["Data","Talk time","Data & talk time","International call","Roaming"]
+    },
+    {
+      "tag": "Data",
+      "patterns": [
+        "data",
+        "Best data Plans",
+        "Cheapest data plans"
+      ],
+      "responses": [
+        "With your selected preferences, below are the suitable networks. Please select one to know the plans"
+      ],
+      "options": ["3","Vodafone","Lyca","O2","EE"]
+    },
+    {
+      "tag": "Data & talk time",
+      "patterns": [
+        "Data & talk time",
+        "data & talk time",
+        "data and talk time",
+        "cheapest for data and talk time",
+        "Cheapest plans for talk time and data"
+      ],
+      "responses": [
+        "With your selected preferences, below are the suitable networks. Please select one to know the plans"
+      ],
+      "options": ["3","Vodafone","Lyca","O2","EE"]
+    },
+    {
+      "tag": "Data & talk time",
+      "patterns": [
+        "Data & talk time",
+        "data & talk time",
+        "data and talk time",
+        "cheapest for data and talk time",
+        "Cheapest plans for talk time and data"
+      ],
+      "responses": [
+        "With your selected preferences, below are the best networks that suits you. Please select one to know the plans"
+      ],
+      "options": ["3","Vodafone","Lyca","O2","EE"]
+    },
+    {
+      "tag": "International call",
+      "patterns": [
+        "International call",
+        "Internationalcall",
+        "international call",
+        "Best international call package",
+        "Cheapest International call plan"
+      ],
+      "responses": [
+        "With your selected preferences, below are the best networks that suits you. Please select one to know the plans"
+      ],
+      "options": ["3","Vodafone","Lyca","O2","EE"]
+    },
+    {
+      "tag": "Roaming",
+      "patterns": [
+        "Roaming",
+        "roaming",
+        "Best roaming call package",
+        "Cheapest roaming call plan"
+      ],
+      "responses": [
+        "With your selected preferences, below are the best networks that suits you. Please select one to know the plans"
+      ],
+      "options": ["3","Vodafone","Lyca","O2","EE"]
+    },
+
+    {
+      "tag": "3",
+      "patterns": [
+        "3",
+        "three"
+      ],
+      "responses": [
+        "You have selected 3 network. Its has plenty of options available."
+      ],
+      "options": ["3 data ","3 talktime","3 Roaming"]
+    },
+     {
+      "tag": "3data",
+      "patterns": [
+        "3 data",
+        "3 data plans",
+        "three data plans"
+      ],
+      "responses": [
+        "with data three has talk time included which is a plus. do you want to know about that package?"
+      ],
+      "options": ["3 data and talk time - yes","3 data and talk time - no"]
+    },
+    {
+      "tag": "data(3) - yes",
+      "patterns": [
+        "3 data and talk time - yes",
+        "3 data plans with talk time",
+        "three data plans and talk time"
+      ],
+      "responses": [
+        "Plan 1 £10/m \n Unlimited Data \n unlimited talk time local \n https://www.three.co.uk/Store/SIM-hub"
+      ],
+      "options": []
+    },
+    {
+      "tag": "data(3) - no",
+      "patterns": [
+        "3 data and talk time - no",
+        "3 data plans with talk time",
+        "three data plans and talk time"
+      ],
+      "responses": [
+        "Plan 1 £10/m \n Unlimited Data \n unlimited talk time local \n https://www.three.co.uk/Store/SIM-hub"
+      ],
+      "options": []
+    }
+  ]
+}

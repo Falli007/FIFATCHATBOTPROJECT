@@ -1,0 +1,18 @@
+1. Set the intepretator
+2. and download the needed libraries by clicking the red bulb at the top of training.py and main.py
+    json
+    string
+    random
+    joblib
+    nltk - if run fails please add these lines and instal punkt and wordnet from nltk and delete these lines once done
+        nltk.download("punkt")
+        nltk.download("wordnet")
+    numpy
+    keras
+    pyQt6
+    tensorflow
+    matplotlib
+    sys
+    functools
+3. Run the training.py file
+4. Run the main.py file which will open the GUI developed.
